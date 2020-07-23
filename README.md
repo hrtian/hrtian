@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello, i'am hrtian.
+你好，我是海瑞
 
 <!--
 **hrtian/hrtian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
